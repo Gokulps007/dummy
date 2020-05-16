@@ -1,6 +1,4 @@
 <?php
-
-  print "Hello World"
-  print "Hi I am production"
+  print "Hello World. I am a production"
 ?>
 
